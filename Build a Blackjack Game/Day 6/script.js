@@ -79,9 +79,18 @@
 //     console.log("You're out of the game! 😭")
 // }
             
-// The if...else statement for our game -------------------------------------------------------------------------
+// Aside: Booleans ----------------------------------------------------------------------------------------------
             
-            
-            
+// let hasDiscountCode = false
 
+// function processOrder() {
+//     if (hasDiscountCode) {
+//         console.log('Discount applied to food order')
+//     } else {
+//         console.log('No discount applied')
+//     }
+// }
 
+// processOrder()
+
+// ---------------------------------------------------------------------------------------------------------------
