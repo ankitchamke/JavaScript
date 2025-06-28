@@ -1,1 +1,0 @@
-Aside: The AND operator (&&)
